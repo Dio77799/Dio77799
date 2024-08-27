@@ -4,10 +4,9 @@
 <details>
   <summary>☎️ contact me</summary>
 <div>
- ```diff
+
 - Coming soon...
-```
-  
+
 </div>
 </details>
 
