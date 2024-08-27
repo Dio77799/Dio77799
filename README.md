@@ -1,4 +1,3 @@
-Aquí tienes una adaptación del código HTML que proporcionaste:
 
 ```html
 <div align="center">
