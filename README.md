@@ -10,12 +10,3 @@
 </div>
 
 
-
-blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
