@@ -3,7 +3,7 @@
   <h4 align="center">A developer and informatic student. Working on my resume</h4>
 
   
-<img src="[[[https://dribbble.com/shots/15637256-coding?utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share](https://dribbble.com/shots/15637256-coding?utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share)](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)" alt="Coding GIF" width="300" />
+<img src="[[[[https://dribbble.com/shots/15637256-coding?utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share](https://dribbble.com/shots/15637256-coding?utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share)](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)" alt="Coding GIF" width="300" />
 
 
   
