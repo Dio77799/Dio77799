@@ -45,7 +45,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,cs,dart,flutter,html,css&theme=dark" alt="Languages" /><br />
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" /><br />
-  <img src="https://img.shields.io/badge/Odoo-ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/ERP-714B67?style=flat-square&logoColor=white" alt="Erip" />
   <img src="https://img.shields.io/badge/Ollama-local%20LLMs-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Nmap-network%20scanning-0E83CD?style=flat-square" alt="Nmap" />
 </p>
