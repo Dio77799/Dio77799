@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=James%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Developer%20%C2%B7%20Building%20private,%20local-first%20AI%20tools&descAlignY=72&descSize=17" width="100%" alt="James V" />
+<img src="assets/koi-header.svg" width="100%" alt="James V: koi pond header" />
 
 <a href="https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/"><img src="https://img.shields.io/badge/LinkedIn-James%20Vel%C3%A1squez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://app.daily.dev/dio77799"><img src="https://img.shields.io/badge/daily.dev-@dio77799-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
-<img src="https://img.shields.io/badge/Honduras-UNAH-1f6feb?style=for-the-badge" alt="UNAH, Honduras" />
+<a href="https://dio77799.github.io/portafolio/"><img src="https://img.shields.io/badge/Portfolio-dio77799.github.io-0b1d2c?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 ### About
 
-- Informatics student at UNAH, Honduras.
+- Informatics student, Honduras.
 - Freelance software developer: web apps, mobile apps and business systems, including Odoo ERP migrations with Honduran fiscal localization.
 - Internship in agentic AI and automation.
 - Cybersecurity student focused on defense. I rebuild attacks in personal labs to understand them and explain how to stop them.

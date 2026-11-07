@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="James V — koi pond">
+  <defs>
+    <radialGradient id="agua" cx="50%" cy="45%" r="75%">
+      <stop offset="0" stop-color="#123047"/>
+      <stop offset="0.6" stop-color="#0b1d2c"/>
+      <stop offset="1" stop-color="#050c14"/>
+    </radialGradient>
+    <linearGradient id="naranja" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#e2531c"/>
+    </linearGradient>
+    <linearGradient id="dorado" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd66b"/>
+      <stop offset="1" stop-color="#e0a52a"/>
+    </linearGradient>
+    <filter id="sombra" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="brillo"><feGaussianBlur stdDeviation="1.2"/></filter>
+
+    <!-- Un koi apuntando a la derecha, centrado en el origen. -->
+    <g id="cola">
+      <path d="M-34 0 C-48 -6 -58 -16 -64 -14 C-60 -6 -58 0 -64 14 C-58 16 -48 6 -34 0 Z" fill="#ffe9d6" fill-opacity="0.85">
+        <animateTransform attributeName="transform" type="skewY" values="-14;14;-14" dur="0.9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g id="koi-blanco-rojo">
+      <ellipse cx="2" cy="6" rx="34" ry="10" fill="#000" opacity="0.35" filter="url(#sombra)"/>
+      <use href="#cola"/>
+      <path d="M-14 -9 C-8 -20 6 -20 8 -11 Z" fill="#ffe9d6" opacity="0.8"/>
+      <path d="M-14 9 C-8 20 6 20 8 11 Z" fill="#ffe9d6" opacity="0.8"/>
+      <path d="M-36 0 C-24 -12 18 -14 34 -4 C40 0 40 0 34 4 C18 14 -24 12 -36 0 Z" fill="#fbf4ea"/>
+      <path d="M-14 -9 C-2 -12 12 -10 20 -5 C10 -1 -4 -3 -14 -9 Z" fill="url(#naranja)"/>
+      <path d="M-26 4 C-18 9 -8 9 -2 6 C-10 2 -20 1 -26 4 Z" fill="url(#naranja)"/>
+      <ellipse cx="26" cy="-0.5" rx="7" ry="4.5" fill="url(#naranja)"/>
+      <circle cx="31" cy="-3" r="1.4" fill="#111"/>
+      <circle cx="31" cy="3" r="1.4" fill="#111"/>
+    </g>
+    <g id="koi-dorado">
+      <ellipse cx="2" cy="6" rx="34" ry="10" fill="#000" opacity="0.35" filter="url(#sombra)"/>
+      <use href="#cola"/>
+      <path d="M-14 -9 C-8 -20 6 -20 8 -11 Z" fill="#ffe7a8" opacity="0.8"/>
+      <path d="M-14 9 C-8 20 6 20 8 11 Z" fill="#ffe7a8" opacity="0.8"/>
+      <path d="M-36 0 C-24 -12 18 -14 34 -4 C40 0 40 0 34 4 C18 14 -24 12 -36 0 Z" fill="url(#dorado)"/>
+      <path d="M-30 0 C-10 -3 14 -3 30 0" stroke="#fff3c4" stroke-width="1.2" fill="none" opacity="0.7" filter="url(#brillo)"/>
+      <circle cx="31" cy="-3" r="1.4" fill="#111"/>
+      <circle cx="31" cy="3" r="1.4" fill="#111"/>
+    </g>
+    <g id="koi-negro">
+      <ellipse cx="2" cy="6" rx="34" ry="10" fill="#000" opacity="0.35" filter="url(#sombra)"/>
+      <use href="#cola"/>
+      <path d="M-14 -9 C-8 -20 6 -20 8 -11 Z" fill="#c9d3dc" opacity="0.7"/>
+      <path d="M-14 9 C-8 20 6 20 8 11 Z" fill="#c9d3dc" opacity="0.7"/>
+      <path d="M-36 0 C-24 -12 18 -14 34 -4 C40 0 40 0 34 4 C18 14 -24 12 -36 0 Z" fill="#1b2430"/>
+      <path d="M-20 -6 C-8 -10 6 -9 14 -6 C6 -2 -8 -2 -20 -6 Z" fill="#f0f0f0"/>
+      <path d="M2 4 C8 7 16 7 22 4 C16 2 8 2 2 4 Z" fill="url(#naranja)"/>
+      <circle cx="31" cy="-3" r="1.4" fill="#000"/>
+      <circle cx="31" cy="3" r="1.4" fill="#000"/>
+    </g>
+
+    <path id="ruta1" d="M -80 150 C 150 60, 330 230, 520 130 S 820 60, 980 150"/>
+    <path id="ruta2" d="M 980 90 C 760 190, 600 40, 420 150 S 120 220, -80 110"/>
+    <path id="ruta3" d="M -80 205 C 220 180, 420 240, 640 190 S 860 170, 980 215"/>
+
+    <g id="hoja">
+      <path d="M0 0 m-26 0 a26 18 0 1 0 52 0 a26 18 0 1 0 -52 0 Z M0 0 L22 -9 L24 -2 Z" fill="#1f5b3a" fill-rule="evenodd"/>
+      <path d="M0 0 m-26 0 a26 18 0 1 0 52 0 a26 18 0 1 0 -52 0" fill="none" stroke="#2f7a4f" stroke-width="1.5"/>
+    </g>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#agua)"/>
+
+  <!-- Destellos de luz en el agua -->
+  <g fill="#7fc4e6" opacity="0.07">
+    <ellipse cx="200" cy="60" rx="180" ry="18"><animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="640" cy="200" rx="220" ry="16"><animate attributeName="opacity" values="1;0.4;1" dur="9s" repeatCount="indefinite"/></ellipse>
+  </g>
+
+  <!-- Koi -->
+  <use href="#koi-blanco-rojo">
+    <animateMotion dur="16s" repeatCount="indefinite" rotate="auto"><mpath href="#ruta1"/></animateMotion>
+  </use>
+  <use href="#koi-dorado">
+    <animateMotion dur="21s" repeatCount="indefinite" rotate="auto"><mpath href="#ruta2"/></animateMotion>
+  </use>
+  <use href="#koi-negro">
+    <animateMotion dur="25s" begin="-9s" repeatCount="indefinite" rotate="auto"><mpath href="#ruta3"/></animateMotion>
+  </use>
+
+  <!-- Ondas -->
+  <g fill="none" stroke="#9fd6f0" stroke-width="1.2">
+    <circle cx="700" cy="70" r="4"><animate attributeName="r" values="4;34" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="190" r="4"><animate attributeName="r" values="4;30" dur="5s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Hojas de loto, por encima de los peces -->
+  <use href="#hoja" transform="translate(820 48) rotate(-20)"/>
+  <use href="#hoja" transform="translate(860 82) rotate(40) scale(0.7)"/>
+  <use href="#hoja" transform="translate(70 228) rotate(160) scale(0.85)"/>
+  <circle cx="842" cy="58" r="6" fill="#f2a7c3"/>
+  <circle cx="842" cy="58" r="2.5" fill="#ffd66b"/>
+
+  <!-- Texto -->
+  <g font-family="'Segoe UI', Inter, system-ui, sans-serif" text-anchor="middle" stroke="#06111b" stroke-width="5" stroke-opacity="0.75" paint-order="stroke" stroke-linejoin="round">
+    <text x="450" y="118" font-size="44" font-weight="300" letter-spacing="10" fill="#eef6fb" opacity="0.95">JAMES V</text>
+    <text x="450" y="150" font-size="14" letter-spacing="4" fill="#9fd6f0" opacity="0.85">SOFTWARE · APPLIED AI · DEFENSIVE SECURITY</text>
+  </g>
+</svg>
