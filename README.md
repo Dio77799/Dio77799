@@ -35,7 +35,7 @@
 
 | Area | Focus |
 |---|---|
-| Software development | Web and mobile apps, ERP and management systems (Odoo, C#) |
+| Software development | Web and mobile apps, ERP and management systems |
 | AI and automation | Local LLMs, agents and workflow automation |
 | Cybersecurity | Defensive security, phishing awareness, network auditing in personal labs |
 | Networks | Fundamentals, scanning and analysis (Cisco Networking Academy coursework) |
