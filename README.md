@@ -62,3 +62,5 @@ I publish educational, defense-focused cybersecurity articles. Latest: *I lost a
 Read them on [LinkedIn](https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/) and [daily.dev](https://app.daily.dev/dio77799).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
+
+<p align="center"><sub>© 2026 James V (Dio77799)</sub></p>
