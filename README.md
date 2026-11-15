@@ -15,22 +15,6 @@
 - Internship in agentic AI and automation.
 - Cybersecurity student focused on defense. I rebuild attacks in personal labs to understand them and explain how to stop them.
 
-### Featured project
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Dio77799/resumidor-videos"><b>resumidor-videos</b></a><br />
-      Turns your videos, audio or transcripts into Markdown study notes: summary, key points, section notes and review questions.
-      Runs 100% locally and free with Ollama + faster-whisper, or with your own Claude/OpenAI API key.<br /><br />
-      <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Ollama-local-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/Whisper-faster--whisper-412991?style=flat-square" alt="faster-whisper" />
-      <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT" />
-    </td>
-  </tr>
-</table>
-
 ### What I work on
 
 | Area | Focus |
