@@ -61,6 +61,12 @@ Hands-on offensive practice to understand attacks and build better defenses.
 I publish educational, defense-focused cybersecurity articles. Latest: *I lost an account to phishing, so I rebuilt the attack to understand it.*
 Read them on [LinkedIn](https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/) and [daily.dev](https://app.daily.dev/dio77799).
 
+### Community
+
+I started [Informática Administrativa UNAH](https://github.com/informatica-administrativa-unah), a student community for my degree at UNAH CU. It has free courses on SQL, networking, IT auditing and cybersecurity, with exercises that get checked automatically through GitHub Actions. It's not an official university account; it's run by students, for students.
+
+<a href="https://github.com/informatica-administrativa-unah"><img src="https://img.shields.io/badge/Community-Inform%C3%A1tica%20Administrativa%20UNAH-0A1238?style=for-the-badge&logo=github&logoColor=white" alt="Informática Administrativa UNAH community" /></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
 
 <p align="center"><sub>© 2026 James V (Dio77799)</sub></p>
