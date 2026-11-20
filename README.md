@@ -10,10 +10,25 @@
 
 ### About
 
+I fix bugs in open source security tools and AI agent frameworks. Each PR says how to reproduce the problem, and when the fix touches code it comes with a test that fails without it.
+
+I work with a small team of AI agents that help me find, fix and review issues. Everything goes through review and tests before it is sent, I decide what goes out, and I answer for it. When a project asks, I say that AI helped.
+
 - Informatics student, Honduras.
 - Freelance software developer: web apps, mobile apps and business systems, including Odoo ERP migrations with Honduran fiscal localization.
 - Internship in agentic AI and automation.
 - Cybersecurity student focused on defense. I rebuild attacks in personal labs to understand them and explain how to stop them.
+
+### Accepted upstream contributions
+
+| Project | What changed |
+|---|---|
+| [OWASP Nettacker](https://github.com/OWASP/Nettacker) | [#1867](https://github.com/OWASP/Nettacker/pull/1867) the API key message showed the port instead of the key · [#1866](https://github.com/OWASP/Nettacker/pull/1866) 67 missing Spanish translations |
+| [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) | [#2950](https://github.com/OWASP/CheatSheetSeries/pull/2950) two dead links in Mobile Application Security |
+| [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) (created by the UK AI Security Institute) | [#6555](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6555), [#6649](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6649) docs examples that still used a retired Gemini model |
+| [flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) | [#899](https://github.com/flyerhq/flutter_chat_ui/pull/899) links with `_` in the path were cut off |
+
+In review: mitmproxy, pylint, ckan and others.
 
 ### What I work on
 
@@ -36,13 +51,13 @@
 
 ### Security labs
 
-Hands-on offensive practice to understand attacks and build better defenses.
+Hands on offensive practice to understand attacks and build better defenses.
 
 <a href="https://labs.hackthebox.com/achievement/machine/3335058/909"><img src="https://img.shields.io/badge/Hack%20The%20Box-Checkpoint%20pwned-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box: Checkpoint pwned" /></a>
 
 ### Writing
 
-I publish educational, defense-focused cybersecurity articles. Latest: *I lost an account to phishing, so I rebuilt the attack to understand it.*
+I publish educational, defense focused cybersecurity articles. Latest: *I lost an account to phishing, so I rebuilt the attack to understand it.*
 Read them on [LinkedIn](https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/) and [daily.dev](https://app.daily.dev/dio77799).
 
 ### Community
