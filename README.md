@@ -19,14 +19,17 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
+9 merged pull requests in 6 open source projects so far.
+
 | Project | What changed |
 |---|---|
 | [OWASP Nettacker](https://github.com/OWASP/Nettacker) | [#1867](https://github.com/OWASP/Nettacker/pull/1867) the API key message showed the port instead of the key · [#1866](https://github.com/OWASP/Nettacker/pull/1866) 67 missing Spanish translations |
 | [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) | [#2950](https://github.com/OWASP/CheatSheetSeries/pull/2950) two dead links in Mobile Application Security |
 | [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) (created by the UK AI Security Institute) | [#6555](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6555), [#6649](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6649) docs examples that still used a retired Gemini model |
 | [flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) | [#899](https://github.com/flyerhq/flutter_chat_ui/pull/899) links with `_` in the path were cut off |
+| [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection |
 
-In review: mitmproxy, pylint, ckan and others.
+In review: mitmproxy, pylint, CrossTL, ckan and others.
 
 ### What I work on
 
