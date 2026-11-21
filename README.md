@@ -19,7 +19,7 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
-9 merged pull requests in 6 open source projects so far.
+10 merged pull requests in 7 open source projects so far.
 
 | Project | What changed |
 |---|---|
