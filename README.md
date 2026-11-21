@@ -12,8 +12,6 @@
 
 I fix bugs in open source developer tools and AI agent frameworks. Each PR says how to reproduce the problem, and when the fix touches code it comes with a test that fails without it.
 
-I work with a small team of AI agents that help me find, fix and review issues. Everything goes through review and tests before it is sent, I decide what goes out, and I answer for it. When a project asks, I say that AI helped.
-
 - Informatics student, Honduras.
 - Freelance software developer: web apps, mobile apps and business systems, including Odoo ERP migrations with Honduran fiscal localization.
 - Internship in agentic AI and automation.
