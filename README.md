@@ -19,7 +19,7 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
-11 merged pull requests in 8 open source projects so far.
+14 merged pull requests in 8 open source projects so far.
 
 | Project | What changed |
 |---|---|
@@ -29,8 +29,8 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 | [flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) | [#899](https://github.com/flyerhq/flutter_chat_ui/pull/899) links with `_` in the path were cut off |
 | [CrossTL](https://github.com/CrossGL/crosstl) (GPU shader translator) | [#4735](https://github.com/CrossGL/crosstl/pull/4735) vector members of constant buffers came out as scalars in the HIP output |
 | [deptime](https://github.com/cschmertz/deptime) (checks what a Python dependency update breaks) | [#49](https://github.com/cschmertz/deptime/pull/49) migration hints for the names MCP SDK 2.0 removed |
-| [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network |
-| [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection |
+| [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network · [#585](https://github.com/RogueAlg0/taken/pull/585) the `CITATION.cff` version stays in sync with `pyproject.toml` |
+| [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection · [#1406](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1406), [#1407](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1407) the benchmark scripts no longer drop or empty tables they did not create |
 
 In review: mitmproxy, pylint, ckan, hello-algo, mloda and others.
 
