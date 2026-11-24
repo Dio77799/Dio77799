@@ -19,7 +19,7 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
-14 merged pull requests in 8 open source projects so far.
+18 merged pull requests in 11 open source projects so far.
 
 | Project | What changed |
 |---|---|
@@ -31,8 +31,11 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 | [deptime](https://github.com/cschmertz/deptime) (checks what a Python dependency update breaks) | [#49](https://github.com/cschmertz/deptime/pull/49) migration hints for the names MCP SDK 2.0 removed |
 | [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network · [#585](https://github.com/RogueAlg0/taken/pull/585) the `CITATION.cff` version stays in sync with `pyproject.toml` |
 | [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection · [#1406](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1406), [#1407](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1407) the benchmark scripts no longer drop or empty tables they did not create |
+| [hello-algo](https://github.com/krahets/hello-algo) (data structures and algorithms book) | [#2026](https://github.com/krahets/hello-algo/pull/2026) the Dart open addressing hash map no longer loops forever when every bucket is a deleted one |
+| [mloda-registry](https://github.com/mloda-ai/mloda-registry) (official plugins for mloda) | [#1618](https://github.com/mloda-ai/mloda-registry/pull/1618) pandas binning rejects complex source columns · [#1619](https://github.com/mloda-ai/mloda-registry/pull/1619) the docs check fails when two Python blocks in one guide define the same test name |
+| [Obtainium](https://github.com/ImranR98/Obtainium) | [#3503](https://github.com/ImranR98/Obtainium/pull/3503) 275 Spanish strings that were still in English |
 
-In review: mitmproxy, pylint, ckan, hello-algo, mloda and others.
+In review: pytest, mitmproxy, pylint, llama_index, ckan, mloda and others.
 
 ### What I work on
 
