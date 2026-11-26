@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/koi-header.svg" width="100%" alt="James V: koi pond header" />
+<img src="assets/sunset-header.svg" width="100%" alt="James V: sunset over the sea with an astronaut engineer peeking from behind a rock" />
 
 <a href="https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/"><img src="https://img.shields.io/badge/LinkedIn-James%20Vel%C3%A1squez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://app.daily.dev/dio77799"><img src="https://img.shields.io/badge/daily.dev-@dio77799-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev" /></a>
