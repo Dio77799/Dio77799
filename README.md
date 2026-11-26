@@ -19,7 +19,7 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
-18 merged pull requests in 11 open source projects so far.
+19 merged pull requests in 12 open source projects so far.
 
 | Project | What changed |
 |---|---|
@@ -31,11 +31,18 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 | [deptime](https://github.com/cschmertz/deptime) (checks what a Python dependency update breaks) | [#49](https://github.com/cschmertz/deptime/pull/49) migration hints for the names MCP SDK 2.0 removed |
 | [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network · [#585](https://github.com/RogueAlg0/taken/pull/585) the `CITATION.cff` version stays in sync with `pyproject.toml` |
 | [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection · [#1406](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1406), [#1407](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1407) the benchmark scripts no longer drop or empty tables they did not create |
+| [CUBRID cookbook](https://github.com/cubrid-lab/cubrid-cookbook-python) (Python recipes for CUBRID) | [#591](https://github.com/cubrid-lab/cubrid-cookbook-python/pull/591) the golden coverage check no longer crashes on scripts outside the checkout |
 | [hello-algo](https://github.com/krahets/hello-algo) (data structures and algorithms book) | [#2026](https://github.com/krahets/hello-algo/pull/2026) the Dart open addressing hash map no longer loops forever when every bucket is a deleted one |
 | [mloda-registry](https://github.com/mloda-ai/mloda-registry) (official plugins for mloda) | [#1618](https://github.com/mloda-ai/mloda-registry/pull/1618) pandas binning rejects complex source columns · [#1619](https://github.com/mloda-ai/mloda-registry/pull/1619) the docs check fails when two Python blocks in one guide define the same test name |
 | [Obtainium](https://github.com/ImranR98/Obtainium) | [#3503](https://github.com/ImranR98/Obtainium/pull/3503) 275 Spanish strings that were still in English |
 
-In review: pytest, mitmproxy, pylint, llama_index, ckan, mloda and others.
+In review: pytest, herdr, mitmproxy, pylint, llama_index, ckan and others.
+
+### Built by me
+
+| Project | What it is |
+|---|---|
+| [sound-stickers](https://github.com/Dio77799/sound-stickers) | Makes a WhatsApp ready sticker and the short sound that goes with it, in the browser, with nothing uploaded. [Try it](https://dio77799.github.io/sound-stickers/) |
 
 ### What I work on
 
@@ -69,9 +76,15 @@ Read them on [LinkedIn](https://www.linkedin.com/in/james-vel%C3%A1squez-8150b63
 
 ### Community
 
-I started [Informática Administrativa UNAH](https://github.com/informatica-administrativa-unah), a student community for my degree at UNAH CU. It has free courses on SQL, networking, IT auditing and cybersecurity, with exercises that get checked automatically through GitHub Actions. It's not an official university account; it's run by students, for students.
+I'm an owner of two student communities on GitHub:
 
-<a href="https://github.com/informatica-administrativa-unah"><img src="https://img.shields.io/badge/Community-Inform%C3%A1tica%20Administrativa%20UNAH-0A1238?style=for-the-badge&logo=github&logoColor=white" alt="Informática Administrativa UNAH community" /></a>
+* [Informática Administrativa UNAH](https://github.com/informatica-administrativa-unah): free courses on SQL, networking, IT auditing and cybersecurity, with exercises that get checked automatically through GitHub Actions.
+* [CEUTEC Ingeniería en Informática](https://github.com/CEUTEC-Ingenieria-en-Informatica): Flutter, Dart and UI design material, free course lists and UI challenges.
+
+Neither is an official university account; they're run by students, for students.
+
+<a href="https://github.com/informatica-administrativa-unah"><img src="https://img.shields.io/badge/Owner-Inform%C3%A1tica%20Administrativa%20UNAH-0A1238?style=for-the-badge&logo=github&logoColor=white" alt="Owner of Informática Administrativa UNAH" /></a>
+<a href="https://github.com/CEUTEC-Ingenieria-en-Informatica"><img src="https://img.shields.io/badge/Owner-CEUTEC%20Ingenier%C3%ADa%20en%20Inform%C3%A1tica-0A1238?style=for-the-badge&logo=github&logoColor=white" alt="Owner of CEUTEC Ingeniería en Informática" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
 
