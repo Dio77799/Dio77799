@@ -38,11 +38,16 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 In review: pytest, herdr, mitmproxy, pylint, llama_index, ckan and others.
 
-### Built by me
+### Take a look
 
 | Project | What it is |
 |---|---|
 | [sound-stickers](https://github.com/Dio77799/sound-stickers) | Makes a WhatsApp ready sticker and the short sound that goes with it, in the browser, with nothing uploaded. [Try it](https://dio77799.github.io/sound-stickers/) |
+| [resumidor-videos](https://github.com/Dio77799/resumidor-videos) | Turns videos, audio or transcripts into Markdown study notes. Runs 100% local with Ollama and faster whisper, or with your own API key. |
+| [eva-agente-local](https://github.com/Dio77799/eva-agente-local) | Personal local agent (CLI, standard library only, Ollama optional): tasks, GitHub, lab notes and content, with a small team of agents and a read only web panel. |
+| [orbita-kanban](https://github.com/Dio77799/orbita-kanban) | Kanban board with WIP limits per column and flow metrics (cycle time, lead time). Plain HTML, CSS and JS, no dependencies. |
+| [MP3](https://github.com/Dio77799/MP3) | Web music player with play and pause, seek bar and track navigation. Plain HTML, CSS and JavaScript. |
+| [portafolio](https://github.com/Dio77799/portafolio) | My portfolio as a retro desktop, with windows, themes and mini games. [Open it](https://dio77799.github.io/portafolio/) |
 
 ### What I work on
 
