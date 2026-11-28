@@ -19,7 +19,7 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 
 ### Accepted upstream contributions
 
-19 merged pull requests in 12 open source projects so far.
+22 merged pull requests in 12 open source projects so far.
 
 | Project | What changed |
 |---|---|
@@ -29,19 +29,20 @@ I fix bugs in open source developer tools and AI agent frameworks. Each PR says 
 | [flutter_chat_ui](https://github.com/flyerhq/flutter_chat_ui) | [#899](https://github.com/flyerhq/flutter_chat_ui/pull/899) links with `_` in the path were cut off |
 | [CrossTL](https://github.com/CrossGL/crosstl) (GPU shader translator) | [#4735](https://github.com/CrossGL/crosstl/pull/4735) vector members of constant buffers came out as scalars in the HIP output |
 | [deptime](https://github.com/cschmertz/deptime) (checks what a Python dependency update breaks) | [#49](https://github.com/cschmertz/deptime/pull/49) migration hints for the names MCP SDK 2.0 removed |
-| [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network · [#585](https://github.com/RogueAlg0/taken/pull/585) the `CITATION.cff` version stays in sync with `pyproject.toml` |
-| [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection · [#1406](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1406), [#1407](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1407) the benchmark scripts no longer drop or empty tables they did not create |
-| [CUBRID cookbook](https://github.com/cubrid-lab/cubrid-cookbook-python) (Python recipes for CUBRID) | [#591](https://github.com/cubrid-lab/cubrid-cookbook-python/pull/591) the golden coverage check no longer crashes on scripts outside the checkout |
+| [taken](https://github.com/RogueAlg0/taken) (checks if a GitHub issue is already taken) | [#578](https://github.com/RogueAlg0/taken/pull/578) `--discover --jobs 0` now fails before touching the network · [#585](https://github.com/RogueAlg0/taken/pull/585) the `CITATION.cff` version stays in sync with `pyproject.toml` · [#595](https://github.com/RogueAlg0/taken/pull/595) a GraphQL rate limit no longer says the budget resets at 0 |
+| [sqlalchemy-cubrid](https://github.com/cubrid-lab/sqlalchemy-cubrid) (SQLAlchemy dialect for CUBRID) | [#1387](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1387) the async sample always releases its engine · [#1388](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1388) importing the basic sample no longer opens a database connection · [#1406](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1406), [#1407](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1407) the benchmark scripts no longer drop or empty tables they did not create · [#1464](https://github.com/cubrid-lab/sqlalchemy-cubrid/pull/1464) the wait script rejects `nan`, `inf` and negative timeouts instead of waiting forever |
+| [CUBRID cookbook](https://github.com/cubrid-lab/cubrid-cookbook-python) (Python recipes for CUBRID) | [#591](https://github.com/cubrid-lab/cubrid-cookbook-python/pull/591) the golden coverage check no longer crashes on scripts outside the checkout · [#646](https://github.com/cubrid-lab/cubrid-cookbook-python/pull/646) a suite that exits nonzero with no passing tests is reported as a failure, not as incomplete |
 | [hello-algo](https://github.com/krahets/hello-algo) (data structures and algorithms book) | [#2026](https://github.com/krahets/hello-algo/pull/2026) the Dart open addressing hash map no longer loops forever when every bucket is a deleted one |
 | [mloda-registry](https://github.com/mloda-ai/mloda-registry) (official plugins for mloda) | [#1618](https://github.com/mloda-ai/mloda-registry/pull/1618) pandas binning rejects complex source columns · [#1619](https://github.com/mloda-ai/mloda-registry/pull/1619) the docs check fails when two Python blocks in one guide define the same test name |
 | [Obtainium](https://github.com/ImranR98/Obtainium) | [#3503](https://github.com/ImranR98/Obtainium/pull/3503) 275 Spanish strings that were still in English |
 
-In review: pytest, herdr, mitmproxy, pylint, llama_index, ckan and others.
+In review: pytest, ckan, eslint-config, mitmproxy, pylint, llama_index, protolint, kuttl and others.
 
 ### Take a look
 
 | Project | What it is |
 |---|---|
+| [agi-ladder](https://github.com/Dio77799/agi-ladder) | A free path from your first prompt to an organization of agents, in five levels, with lessons, prompts to copy, skills and a quiz to find your level. [Open the guide](https://dio77799.github.io/agi-ladder/) |
 | [sound-stickers](https://github.com/Dio77799/sound-stickers) | Makes a WhatsApp ready sticker and the short sound that goes with it, in the browser, with nothing uploaded. [Try it](https://dio77799.github.io/sound-stickers/) |
 | [resumidor-videos](https://github.com/Dio77799/resumidor-videos) | Turns videos, audio or transcripts into Markdown study notes. Runs 100% local with Ollama and faster whisper, or with your own API key. |
 | [eva-agente-local](https://github.com/Dio77799/eva-agente-local) | Personal local agent (CLI, standard library only, Ollama optional): tasks, GitHub, lab notes and content, with a small team of agents and a read only web panel. |
@@ -76,7 +77,7 @@ Hands on offensive practice to understand attacks and build better defenses.
 
 ### Writing
 
-I publish educational, defense focused cybersecurity articles. Latest: *I lost an account to phishing, so I rebuilt the attack to understand it.*
+I write about open source work, AI agents and defensive security. Latest: [*18 merged PRs in 11 projects, and the rule I made so I wouldn't open more*](https://daily.dev/posts/18-merged-prs-in-11-projects-and-the-rule-i-made-so-i-wouldn-t-open-more-witc9ddei).
 Read them on [LinkedIn](https://www.linkedin.com/in/james-vel%C3%A1squez-8150b6383/) and [daily.dev](https://app.daily.dev/dio77799).
 
 ### Community
